@@ -45,6 +45,7 @@ print warmUpExercise()
 print('Program paused. Press enter to continue.')
 raw_input()
 
+
 ## ======================= Part 2: Plotting =======================
 print 'Plotting Data ...'
 data = loadtxt('./ex1data1.txt', delimiter=',')
