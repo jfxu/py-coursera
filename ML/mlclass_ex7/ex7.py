@@ -179,4 +179,3 @@ fig.show()
 
 print 'Program paused. Press enter to continue.'
 raw_input()
-
